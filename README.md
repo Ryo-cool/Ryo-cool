@@ -8,7 +8,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryo-cool)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
