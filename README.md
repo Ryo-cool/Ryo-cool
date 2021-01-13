@@ -1,4 +1,3 @@
-[![](https://raw.githubusercontent.com/Ryo-cool/Ryo-cool/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ryo-cool&show_icons=true&icon_color=fff&bg_color=30,a9a9a9,6495ed&title_color=fff&text_color=fff" />
