@@ -13,3 +13,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,ruby,rails,docker,git,aws,nginx,vscode)](https://skillicons.dev)
+
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angularjs&logoColor=white&style=for-the-badge)
