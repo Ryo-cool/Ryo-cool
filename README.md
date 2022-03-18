@@ -12,4 +12,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,ruby,rails,docker,git,aws,nginx,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,ruby,rails,docker,git,aws,nginx)](https://skillicons.dev)
